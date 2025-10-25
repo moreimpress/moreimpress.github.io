@@ -1,1 +1,1 @@
-hugo mod init github.com/moreimpress/moreimpress.github.io
+git clone https://github.com/jainiea/jainiea.github.com.git

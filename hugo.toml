@@ -1,6 +1,6 @@
 baseURL = 'https://moreimpress.github.io'
 languageCode = 'en-us'
-title = 'Val Manchinski's Site'
+title = 'Val Manchinski'
 
 [module]
   [[module.imports]]
