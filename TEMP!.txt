@@ -1,3 +1,6 @@
 git clone https://github.com/jainiea/jainiea.github.com.git
 
 test commit
+
+git remote set origin https://github.com/moreimpress/moreimpress.github.io
+
