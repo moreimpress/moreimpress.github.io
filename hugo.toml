@@ -1,0 +1,7 @@
+baseURL = 'https://moreimpress.github.io'
+languageCode = 'en-us'
+title = 'Val Manchinski's Site'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nanxiaobei/hugo-paper"
